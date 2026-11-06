@@ -139,16 +139,15 @@ After configuring the static IPv4 address, the interface did not initially retai
 
 ## Screenshots
 
-Add your own screenshots to a folder named `screenshots`, then replace the placeholders below with the matching image filenames.
+The following screenshots document the lab configuration and verification.
 
 | Evidence | Screenshot |
 |---|---|
-| VirtualBox NAT Network configuration | _Add screenshot_ |
-| Kali VM network adapter settings | _Add screenshot_ |
-| Kali IP address and connectivity tests | _Add screenshot_ |
-| Shared folder configuration | _Add screenshot_ |
-| Initial lab snapshot | _Add screenshot_ |
-
+| VirtualBox NAT Network configuration | ![NAT Network configuration](screenshots/nat-network.png) |
+| Kali VM network adapter settings | ![Kali adapter settings](screenshots/kali-adapter.png) |
+| Kali static IP address | ![Kali IP address](screenshots/kali-ip.png) |
+| Internet connectivity tests | ![Internet connectivity](screenshots/internet-connectivity.png) |
+| Initial lab snapshot | ![Initial lab snapshot](screenshots/initial-snapshot.png) |
 ## Tools and resources
 
 - [Oracle VirtualBox](https://www.virtualbox.org/wiki/Downloads)
